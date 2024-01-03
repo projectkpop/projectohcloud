@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 3
-date: 2023-07-21
+date: 2014-07-16
 img: circus.png
 alt: image-alt
-project-date: July 2023
-artist: NewJeans
-category: Dance
-description: 'Get Up'에서 보여지는 뉴진스는 더 성장한 모습으로, 여전히 자연스럽고 세련된 매력을 발산하며, 좋은 음악을 하고 있다. 'Get Up'은 뉴진스의 포부와 각오가 그대로 담긴, 뉴진스의 본질을 담아낸 또 하나의 앨범이다.
+project-date: April 2014
+artist: Start Bootstrap
+category: Web Development
+description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
