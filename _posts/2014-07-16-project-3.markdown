@@ -7,5 +7,5 @@ alt: image-alt
 project-date: July 2023
 artist: NewJeans
 category: Dance
-description: 'Get Up'에서 보여지는 뉴진스는 더 성장한 모습으로, 여전히 자연스럽고 세련된 매력을 발산하며, 좋은 음악을 하고 있다. 'Get Up'은 뉴진스의 포부와 각오가 그대로 담긴, 뉴진스의 본질을 담아내는 또 하나의 앨범이다.
+description: 'Get Up'에서 보여지는 뉴진스는 더 성장한 모습으로, 여전히 자연스럽고 세련된 매력을 발산하고, 'Get Up'은 뉴진스의 포부와 각오가 그대로 담긴, 뉴진스의 본질을 담아내는 또 하나의 앨범이다.
 ---
