@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2023-01-02
 img: cake.png
 alt: image-alt
-project-date: April 2014
-artist: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: January 2023
+artist: NewJeans
+category: Dance
+description: 첫 갸울을 맞이하는 NewJeans의 새 앨범 "OMG"는 조금은 묘한 거리감, 조금은 낯선 배경 속에서 다시 한번 관계를 이야기한다.그리고 그 안에 특별하고 의미있는 선물을 담아내고 있다.
 ---
