@@ -1,11 +1,13 @@
 ---
 layout: default
-modal-id: 1
+modal-id: NewJeans 1st EP 'New Jeans'
 date: 2014-07-18
 img: cabin.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: 1st EP "New Jeans"는 NewJeans가 추구하는 '좋은 음악'에 대한 질문을 던진다. 
+
+정형화된 K-POP의 익숙한 공식을 따르지 않았고, POP에 기반을 두고 있지만 특정 스타일만을 고수하지 않았다. 어디서든 편하게 들을 수 있는 세련된 이지리스닝 팝을 추구하는 동시에 과장 없는 자연스러운 사운드 엔지니어링으로 NewJeans 멤버들 본연의 목소리를 살리는 프로듀싱을 진행했다
 ---
