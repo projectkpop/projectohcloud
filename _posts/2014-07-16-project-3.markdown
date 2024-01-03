@@ -1,11 +1,10 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 3
 date: 2023-07-21
 img: circus.png
 alt: image-alt
-project-date: July 2023
 artist: NewJeans
 category: Dance
-description: 뉴진스 1집.
+description: 뉴진스 3집.
 ---
