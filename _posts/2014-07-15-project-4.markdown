@@ -9,12 +9,5 @@ artist: Start Bootstrap
 category: Web Development
 description: 수록곡
 <p data-ke-size="size16">&nbsp;</p>
-1. Attention(title)
-<p data-ke-size="size16">&nbsp;</p>
-2. Hype Boy(title)
-<p data-ke-size="size16">&nbsp;</p>
-3. Cookie(title)
-<p data-ke-size="size16">&nbsp;</p>
-4. Hurt
-<p data-ke-size="size16">&nbsp;</p>
+1. Attention(title) 2. Hype Boy(title) 3. Cookie(title) 4. Hurt
 ---
