@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2022-08-01
 img: cabin.png
 alt: image-alt
-project-date: April 2014
-client: NewJeans
+project-date: August 2022
+client: Newjeans
 category: Dance
 description: 멤버 구성은 물론 그룹 이름조차 공개되지 않았던 시기부터 ‘민희진 걸그룹’이라 불리며 올 한해 가장 큰 기대를 불러 모았던 ADOR(All Doors One Room)의 첫 번째 신인, NewJeans가 데뷔했다.
 
