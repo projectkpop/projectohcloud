@@ -1,9 +1,10 @@
 ---
 layout: default
 modal-id: 1
-date: 2022-08-01
+date: 2014-07-14
 img: cabin.png
 alt: image-alt
+project-date: August 2022
 artist: NewJeans
 category: Dance
 description: 뉴진스 1집.

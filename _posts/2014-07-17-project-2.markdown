@@ -1,9 +1,10 @@
 ---
 layout: default
 modal-id: 2
-date: 2023-01-02
+date: 2014-07-14
 img: cake.png
 alt: image-alt
+project-date: January 2023
 atrist: NewJeans
 category: Dance
 description: 뉴진스 2집.
