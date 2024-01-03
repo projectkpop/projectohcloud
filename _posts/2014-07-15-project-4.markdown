@@ -7,7 +7,5 @@ alt: image-alt
 project-date: August 2022
 artist: Start Bootstrap
 category: Web Development
-description: 수록곡
-<p data-ke-size="size16">&nbsp;</p>
-1. Attention(title) 2. Hype Boy(title) 3. Cookie(title) 4. Hurt
+description: 수록곡 1. Attention(title) 2. Hype Boy(title) 3. Cookie(title) 4. Hurt
 ---
