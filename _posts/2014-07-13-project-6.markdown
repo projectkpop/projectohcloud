@@ -5,7 +5,7 @@ date: 2014-07-10
 img: submarine.png
 alt: image-alt
 project-date: July 2023
-artist: Start Bootstrap
+artist: NewJeans
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: 1. NewJeans 2. Super Shy 3. ETA 4. Cool with you 5. Get Up 6. ASAP
 ---

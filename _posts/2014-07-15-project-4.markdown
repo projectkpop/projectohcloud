@@ -5,7 +5,7 @@ date: 2014-07-12
 img: game.png
 alt: image-alt
 project-date: August 2022
-artist: Start Bootstrap
+artist: NewJeans
 category: Web Development
 description: 1. Attention(title) 2. Hype Boy(title) 3. Cookie(title) 4. Hurt
 ---
