@@ -5,7 +5,7 @@ date: 2023-01-02
 img: cake.png
 alt: image-alt
 project-date: Januaury 2023
-client: NewJeans
+artist: NewJeans
 category: Dance
 description: 첫 겨울을 맞이하는 NewJeans의 새 앨범 "OMG"는 조금은 묘한 거리감, 조금은 낯선 배경 속에서 다시 한번 관계를 이야기한다.
 ---
