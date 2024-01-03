@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-14
+date: 2014-07-13
 img: circus.png
 alt: image-alt
 project-date: July 2023
