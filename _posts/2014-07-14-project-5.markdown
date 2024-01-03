@@ -7,5 +7,5 @@ alt: image-alt
 project-date: January 2023
 artist: NewJeans
 category: Web Development
-description: 1. OMG 2. Ditto
+description: 1. OMG(title) 2. Ditto
 ---

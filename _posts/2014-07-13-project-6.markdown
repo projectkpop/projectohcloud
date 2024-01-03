@@ -7,5 +7,5 @@ alt: image-alt
 project-date: July 2023
 artist: NewJeans
 category: Web Development
-description: 1. NewJeans 2. Super Shy 3. ETA 4. Cool with you 5. Get Up 6. ASAP
+description: 1. NewJeans 2. Super Shy(title) 3. ETA(title) 4. Cool with you(title) 5. Get Up 6. ASAP
 ---
