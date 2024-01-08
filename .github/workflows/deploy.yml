@@ -5,7 +5,7 @@ on:
     branches: [ "main" ]
 env:			
   AWS_REGION: ap-northeast-2
-  S3_BUCKET_NAME: sihyun-webserver
+  S3_BUCKET_NAME: mycloud24
 
 permissions:		
   contents: read
